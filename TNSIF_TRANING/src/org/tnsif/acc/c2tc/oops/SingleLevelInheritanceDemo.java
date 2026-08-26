@@ -1,4 +1,4 @@
-package org.tsnif.acc.c2tc.oops;
+package org.tnsif.acc.c2tc.oops;
 
 
 //parent class
